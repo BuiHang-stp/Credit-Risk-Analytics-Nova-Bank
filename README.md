@@ -98,10 +98,9 @@ This project uses a public dataset for demonstration. Figures reflect the datase
 Source: Xóm Data
 
 ---
-## 💬 Let's talk
-Thank you for reading this far!     
-I'm always open to Data Analyst opportunities, as well as any feedback that 
-helps me improve. Feel free to reach out — I'd love to connect.
+## 💬 Thank you for reading this far!     
+I'm always open to Data Analyst opportunities, as well as any feedback that helps the project improve.     
+Feel free to reach out — I'd love to connect.
 
 **Bùi Thu Hằng** — Data Analyst           
-Reach me on [LinkedIn](https://www.linkedin.com/in/buithuhang/) or via [email](mailto:hangbui.bda@gmail.com)
+Reach me via [LinkedIn](https://www.linkedin.com/in/buithuhang/) or [Email - buihang.work@gmail.com](mailto:buihang.work@gmail.com).
