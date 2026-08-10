@@ -103,4 +103,4 @@ I'm always open to Data Analyst opportunities, as well as any feedback that help
 Feel free to reach out — I'd love to connect.
 
 **Bùi Thu Hằng** — Data Analyst           
-Reach me via [LinkedIn](https://www.linkedin.com/in/buithuhang/) or [Email - buihang.work@gmail.com](mailto:buihang.work@gmail.com).
+Reach me via [LinkedIn](https://www.linkedin.com/in/buithuhang/) or [Email - buihang.work@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=buihang.work@gmail.com)).
