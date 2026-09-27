@@ -23,7 +23,7 @@ Three questions drive the analysis:
 - Reduce default risk and improve portfolio quality
 
 **Dataset** 
-- **33,000** consumer loan records
+- **32,574** consumer loan records
 - Markets: United States, Canada, and the United Kingdom                
 
 ## 2. Dashboard
@@ -81,7 +81,7 @@ Three questions drive the analysis:
 ## 4. Architecture
 ```mermaid
 flowchart LR
-    A["Raw CSV<br/>30,000 rows"] --> B["Python<br/>clean + validate"]
+    A["Raw CSV<br/>32,574 rows"] --> B["Python<br/>clean + validate"]
     B --> C["credit_risk_data_clean<br/>staging · 29 cols"]
     B --> D["EDA + rule-based<br/>risk scoring"]
     D --> E["scored.csv<br/>+ risk_flags, segment, bands"]
